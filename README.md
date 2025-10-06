@@ -9,10 +9,11 @@
 <h3 align="center">DevOps/Cloud Engineer | AWS☁️ | Terraform🛠️ | Jenkins ci/cd🚀 | GitHub 🔗| Ansible⚙️ | Kubernetes☸️ | Grafana | Prometheus | Docker🐳 | Bash</h3>
 
 <p align="center">
-  💡 Passionate about transforming development workflows through automation and cloud technologies<br/>
-  🌱 Currently mastering AWS, Docker, Kubernetes, and Infrastructure as Code<br/>
-  🎯 Building scalable, reliable, and secure cloud-native solutions<br/>
-  📚 Continuous learner exploring the latest in DevOps and Site Reliability Engineering
+  💡 Passionate DevOps Engineer focused on cloud automation and infrastructure excellence<br/>
+  🌱 Specializing in AWS cloud services, Terraform IaC, and Jenkins CI/CD pipelines<br/>
+  🎯 Expert in Kubernetes orchestration, Docker containerization, and Ansible automation<br/>
+  📈 Proficient in monitoring with Grafana & Prometheus, and Bash scripting for automation<br/>
+  🛠️ Building scalable, reliable infrastructure using GitHub for version control and collaboration
 </p>
 
 <div align="center">
@@ -52,6 +53,12 @@
 <div align="center">
   <img src="https://github.com/Shishant90/Shishant90/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
+
+---
+
+## 📝 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
