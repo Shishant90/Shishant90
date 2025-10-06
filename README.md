@@ -55,40 +55,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### [🏗️ Multi-Tier AWS Infrastructure](https://github.com/Shishant90/aws-terraform-infrastructure)
-- **Description:** Automated deployment of scalable 3-tier web application infrastructure on AWS
-- **Tech Stack:** `Terraform` `AWS EC2` `RDS` `ALB` `VPC` `Auto Scaling`
-- **Highlights:** Infrastructure provisioning with 99.9% uptime, automated scaling, and security best practices
-
-### [🔄 CI/CD Pipeline with Monitoring](https://github.com/Shishant90/devops-pipeline)
-- **Description:** End-to-end CI/CD pipeline with integrated monitoring and alerting
-- **Tech Stack:** `Jenkins` `Docker` `Kubernetes` `Prometheus` `Grafana` `GitHub Actions`
-- **Highlights:** Automated testing, deployment, and real-time monitoring with Slack notifications
-
-### [⚸️ Kubernetes Microservices Platform](https://github.com/Shishant90/k8s-microservices)
-- **Description:** Production-ready microservices deployment on Kubernetes with service mesh
-- **Tech Stack:** `Kubernetes` `Istio` `Helm` `ArgoCD` `Jaeger`
-- **Highlights:** Service discovery, load balancing, distributed tracing, and GitOps workflow
-
----
-
-## 🎯 What I'm Currently Working On
-
-- 🔭 Building a **Serverless Data Pipeline** using AWS Lambda, Step Functions, and EventBridge
-- 🌱 Learning **Site Reliability Engineering** principles and implementing SLOs/SLIs
-- 👯 Contributing to open-source DevOps tools and Kubernetes operators
-- 💬 Writing technical blogs about cloud-native architectures and DevOps practices
-- ⚡ Exploring **Platform Engineering** and developer experience optimization
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shishant90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shishant90&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
 ## 📫 Let's Connect & Collaborate!
 
 💼 **Open to opportunities in:** DevOps Engineering, Cloud Architecture, Site Reliability Engineering<br/>
