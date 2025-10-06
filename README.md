@@ -33,24 +33,7 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" title="Terraform" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" title="Ansible" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" title="Jenkins" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=helm" alt="Helm" title="Helm" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" title="Grafana" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" title="Prometheus" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=yaml" alt="YAML" title="YAML" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" title="Nginx" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,jenkins,githubactions,docker,kubernetes,helm,grafana,prometheus,bash,yaml,mysql,postgresql,git,linux,nginx,vscode" />
 </div>
 
 ---
