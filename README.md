@@ -32,18 +32,26 @@
 
 ---
 
-## 🛠 My DevOps Toolkit
-
-| Category | Technologies & Tools |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **☁️ Cloud Platforms** | <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" title="GCP" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=azure" alt="Azure" title="Azure" width="40" height="40"/> |
-| **🛠️ IaC & Automation** | <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" title="Terraform" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" title="Ansible" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare" width="40" height="40"/> |
-| **🚀 CI/CD & GitOps** | <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" title="Jenkins" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" title="GitLab" width="40" height="40"/> |
-| **⚸️ Container & Orchestration** | <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=helm" alt="Helm" title="Helm" width="40" height="40"/> |
-| **📊 Monitoring & Observability** | <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" title="Grafana" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" title="Prometheus" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=elasticsearch" alt="ELK Stack" title="ELK Stack" width="40" height="40"/> |
-| **💻 Programming & Scripting** | <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=yaml" alt="YAML" title="YAML" width="40" height="40"/> |
-| **🗄️ Databases & Storage** | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="40" height="40"/> |
-| **🔧 Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" title="Nginx" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="40" height="40"/> |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" title="Terraform" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" title="Ansible" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" title="Jenkins" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=helm" alt="Helm" title="Helm" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" title="Grafana" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" title="Prometheus" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=yaml" alt="YAML" title="YAML" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" title="Nginx" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="50" height="50"/>
+</div>
 
 ---
 
