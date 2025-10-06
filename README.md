@@ -56,6 +56,9 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Shishant90&theme=radical)
+
 ## 📝 Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
