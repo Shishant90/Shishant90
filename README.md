@@ -30,9 +30,49 @@
 
 ---
 
+## ☁️ Cloud & Infrastructure
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,jenkins,githubactions,docker,kubernetes,helm,grafana,prometheus,bash,yaml,mysql,postgresql,git,linux,nginx,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible" />
 </div>
+
+## 🚀 CI/CD & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,docker,kubernetes,helm" />
+</div>
+
+## 📊 Monitoring & Scripting
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,bash,yaml" />
+</div>
+
+## 🗄️ Databases & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,linux,nginx,vscode" />
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hello! I'm **Shishant Kanojia**, a passionate DevOps Engineer dedicated to bridging the gap between development and operations through automation, cloud technologies, and modern infrastructure practices.
+
+### 🚀 What I Do
+- **Cloud Infrastructure:** Design and implement scalable AWS cloud solutions
+- **Infrastructure as Code:** Automate infrastructure provisioning using Terraform
+- **CI/CD Pipelines:** Build robust deployment pipelines with Jenkins and GitHub Actions
+- **Container Orchestration:** Deploy and manage applications using Docker and Kubernetes
+- **Configuration Management:** Streamline server configurations with Ansible
+- **Monitoring & Observability:** Implement comprehensive monitoring using Grafana and Prometheus
+- **Automation:** Create efficient Bash scripts for operational tasks
+
+### 🎯 My Mission
+To help organizations achieve faster, more reliable software delivery through automation, best practices, and cutting-edge DevOps methodologies. I believe in continuous learning, collaboration, and building systems that are not just functional, but maintainable and scalable.
+
+### 📚 Currently Learning
+- Advanced Kubernetes patterns and service mesh technologies
+- Site Reliability Engineering (SRE) principles
+- Cloud-native security practices
+- Platform engineering and developer experience optimization
 
 ---
 
