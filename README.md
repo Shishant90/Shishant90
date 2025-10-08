@@ -5,9 +5,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Shishant+Kanojia!;DevOps+Enthusiast;Cloud+Explorer;" />
 </h1>
-
-<h3 align="center">DevOps/Cloud Engineer | AWS☁️ | Terraform🛠️ | Jenkins ci/cd🚀 | GitHub 🔗| Ansible⚙️ | Kubernetes☸️ | Grafana | Prometheus | Docker🐳 | Bash</h3>
-
 <p align="center">
   💡 Passionate DevOps Engineer focused on cloud automation and infrastructure excellence<br/>
   🌱 Specializing in AWS cloud services, Terraform IaC, and Jenkins CI/CD pipelines<br/>
