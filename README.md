@@ -112,20 +112,8 @@ To help organizations achieve faster, more reliable software delivery through au
 
 ---
 
-## 🏆 GitHub Trophies & Tokens
+## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Shishant90&theme=radical)
-
-### 🪙 DevOps Tokens Earned
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-Expert-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-Master-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Pro-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-Specialist-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-Expert-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Administrator-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monitoring-Guru-FF6B35?style=for-the-badge&logo=grafana&logoColor=white" />
-</div>
 
 ## 📝 Recent Activity
 <!--START_SECTION:activity-->
