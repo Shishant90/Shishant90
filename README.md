@@ -71,24 +71,6 @@ To help organizations achieve faster, more reliable software delivery through au
 - Cloud-native security practices
 - Platform engineering and developer experience optimization
 
-### 🏅 Achievements & Certifications
-- **AWS Cloud Practitioner** - Foundation level AWS certification
-- **Docker Certified Associate** - Container technology expertise
-- **Kubernetes Administrator (CKA)** - In Progress
-- **Terraform Associate** - Infrastructure as Code certification
-- **Jenkins Certified Engineer** - CI/CD pipeline expertise
-- **Linux Professional Institute (LPIC-1)** - Linux system administration
-- **Ansible Automation Platform** - Configuration management specialist
-
-### 🎯 Professional Milestones
-- ✅ Deployed 50+ production applications using Docker & Kubernetes
-- ✅ Automated infrastructure for 20+ projects using Terraform
-- ✅ Reduced deployment time by 80% through CI/CD optimization
-- ✅ Implemented monitoring solutions serving 1M+ requests/day
-- ✅ Managed multi-cloud environments across AWS, GCP, and Azure
-- ✅ Led DevOps transformation for 5+ development teams
-- ✅ Created 100+ automation scripts for operational efficiency
-
 ---
 
 ## 📈 GitHub Stats & Activity
