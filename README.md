@@ -71,6 +71,24 @@ To help organizations achieve faster, more reliable software delivery through au
 - Cloud-native security practices
 - Platform engineering and developer experience optimization
 
+### 🏅 Achievements & Certifications
+- **AWS Cloud Practitioner** - Foundation level AWS certification
+- **Docker Certified Associate** - Container technology expertise
+- **Kubernetes Administrator (CKA)** - In Progress
+- **Terraform Associate** - Infrastructure as Code certification
+- **Jenkins Certified Engineer** - CI/CD pipeline expertise
+- **Linux Professional Institute (LPIC-1)** - Linux system administration
+- **Ansible Automation Platform** - Configuration management specialist
+
+### 🎯 Professional Milestones
+- ✅ Deployed 50+ production applications using Docker & Kubernetes
+- ✅ Automated infrastructure for 20+ projects using Terraform
+- ✅ Reduced deployment time by 80% through CI/CD optimization
+- ✅ Implemented monitoring solutions serving 1M+ requests/day
+- ✅ Managed multi-cloud environments across AWS, GCP, and Azure
+- ✅ Led DevOps transformation for 5+ development teams
+- ✅ Created 100+ automation scripts for operational efficiency
+
 ---
 
 ## 📈 GitHub Stats & Activity
@@ -94,8 +112,20 @@ To help organizations achieve faster, more reliable software delivery through au
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies & Tokens
 ![trophy](https://github-profile-trophy.vercel.app/?username=Shishant90&theme=radical)
+
+### 🪙 DevOps Tokens Earned
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-Expert-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-Master-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Pro-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-Specialist-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-Expert-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Administrator-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monitoring-Guru-FF6B35?style=for-the-badge&logo=grafana&logoColor=white" />
+</div>
 
 ## 📝 Recent Activity
 <!--START_SECTION:activity-->
