@@ -88,6 +88,10 @@ To help organizations achieve faster, more reliable software delivery through au
   <img src="https://github.com/Shishant90/Shishant90/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shishant90&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
